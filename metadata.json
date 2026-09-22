@@ -1,0 +1,6 @@
+{
+  "name": "GitHub File Manager",
+  "description": "A lightweight client-side repository management tool to upload, browse, edit, and delete files on GitHub, featuring full-path recursive file explorer with export, live artifact preview, and multi-index.html <details> viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
