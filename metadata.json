@@ -1,6 +1,0 @@
-{
-  "name": "GitHub File Manager",
-  "description": "A lightweight client-side repository management tool to upload, browse, edit, and delete files on GitHub using Octokit.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
